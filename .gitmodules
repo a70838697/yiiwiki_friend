@@ -1,0 +1,3 @@
+[submodule "Yii-extensions_tony"]
+	path = Yii-extensions_tony
+	url = https://github.com/tonydspaniard/Yii-extensions.git
