@@ -4,3 +4,6 @@
 [submodule "file-uploader"]
 	path = file-uploader
 	url = git@github.com:70838697/file-uploader.git
+[submodule "yii-user"]
+	path = yii-user
+	url = git@github.com:70838697/yii-user.git
