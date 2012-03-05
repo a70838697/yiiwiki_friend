@@ -1,3 +1,6 @@
 [submodule "Yii-extensions"]
 	path = Yii-extensions
 	url = git@github.com:70838697/Yii-extensions.git
+[submodule "file-uploader"]
+	path = file-uploader
+	url = git@github.com:70838697/file-uploader.git
