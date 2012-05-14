@@ -7,3 +7,6 @@
 [submodule "yii-rights"]
 	path = yii-rights
 	url = git@github.com:70838697/yii-rights.git
+[submodule "yii-user"]
+	path = yii-user
+	url = git://github.com/mishamx/yii-user.git
